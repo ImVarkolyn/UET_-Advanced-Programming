@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1716449437 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\main.cpp
+	<bits/stdc++.h>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"PlayerObject.h"
+	"ThreatObject.h"
+	"AmmoObject.h"
+	"ExplosionObject.h"
+	"Timer.h"
+	"TextObject.h"
+
+1716449163 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\commonfunc.cpp
+	"CommonFunc.h"
+	"TextObject.h"
+
+1716449437 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\commonfunc.h
+	<windows.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_audio.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1716383199 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\baseobject.cpp
+	"BaseObject.h"
+
+1716383199 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\baseobject.h
+	"CommonFunc.h"
+	<bits/stdc++.h>
+
+1715188067 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\gamemap.cpp
+	"GameMap.h"
+
+1715184077 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\gamemap.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1715347928 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\charobject.cpp
+
+1716392275 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\playerobject.h
+	<bits/stdc++.h>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"AmmoObject.h"
+
+1716401730 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\playerobject.cpp
+	"PlayerObject.h"
+
+1716371177 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\ammoobject.cpp
+	"AmmoObject.h"
+	<iostream>
+
+1716371115 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\ammoobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1716392540 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\threatobject.cpp
+	"ThreatObject.h"
+	<iostream>
+
+1716392540 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"AmmoObject.h"
+	<vector>
+
+1716397154 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\explosionobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1716397264 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\explosionobject.cpp
+	"ExplosionObject.h"
+
+1716399871 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\timer.cpp
+	"Timer.h"
+	"CommonFunc.h"
+
+1716399536 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\timer.h
+
+1716449163 d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\textobject.h
+	"CommonFunc.h"
+	<string>
+
+1716449141 source:d:\coding environment\codeblocks\y1_s2_ltnc\testsdl2\textobject.cpp
+	"TextObject.h"
+
